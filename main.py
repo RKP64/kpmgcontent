@@ -93,7 +93,7 @@ app_mode = st.sidebar.selectbox(
 )
 st.sidebar.markdown("---")
 st.sidebar.info( 
-    "Ensure API keys are set in Streamlit Cloud Secrets for full functionality."
+    ""
 )
 
 
